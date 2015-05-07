@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.0",
+    "gulp-purescript": "^0.4.0",
+    "gulp-run": "^1.6.8"
+  },
+  "dependencies": {
+    "purescript": "^0.6.10"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "purescript-ordered-jobs",
+  "private": true,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "purescript-graphs": "~0.3.1",
+    "purescript-string-parsers": "~0.4.1"
+  }
+}
